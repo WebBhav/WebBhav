@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Singhal from IIT Ropar 
 - 👀 I’m interested in everything which looks crazy to me.
-- 🌱 I’m currently learning development in web and app
+- 🌱 I’m currently trying to make something usefull by combining multiple things together.
 - 📫 Contact me at vaibhavsinghal2808@gmail.com
 
 
